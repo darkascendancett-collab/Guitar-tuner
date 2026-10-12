@@ -1,6 +1,7 @@
 {
   "name": "Guitar Tuner+",
   "short_name": "Guitar Tuner+",
+  "description": "A simple guitar tuner for tuning guitar strings accurately.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
